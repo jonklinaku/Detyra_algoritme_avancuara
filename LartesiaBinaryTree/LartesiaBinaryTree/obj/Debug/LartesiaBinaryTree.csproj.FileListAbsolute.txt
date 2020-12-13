@@ -1,0 +1,7 @@
+C:\Users\Jon\source\repos\LartesiaBinaryTree\LartesiaBinaryTree\bin\Debug\LartesiaBinaryTree.exe.config
+C:\Users\Jon\source\repos\LartesiaBinaryTree\LartesiaBinaryTree\bin\Debug\LartesiaBinaryTree.exe
+C:\Users\Jon\source\repos\LartesiaBinaryTree\LartesiaBinaryTree\bin\Debug\LartesiaBinaryTree.pdb
+C:\Users\Jon\source\repos\LartesiaBinaryTree\LartesiaBinaryTree\obj\Debug\LartesiaBinaryTree.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\LartesiaBinaryTree\LartesiaBinaryTree\obj\Debug\LartesiaBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\LartesiaBinaryTree\LartesiaBinaryTree\obj\Debug\LartesiaBinaryTree.exe
+C:\Users\Jon\source\repos\LartesiaBinaryTree\LartesiaBinaryTree\obj\Debug\LartesiaBinaryTree.pdb
