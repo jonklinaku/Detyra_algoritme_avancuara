@@ -1,0 +1,7 @@
+C:\Users\Jon\source\repos\Comaprison_vs_distribution_sort\Comaprison_vs_distribution_sort\bin\Debug\Comaprison_vs_distribution_sort.exe.config
+C:\Users\Jon\source\repos\Comaprison_vs_distribution_sort\Comaprison_vs_distribution_sort\bin\Debug\Comaprison_vs_distribution_sort.exe
+C:\Users\Jon\source\repos\Comaprison_vs_distribution_sort\Comaprison_vs_distribution_sort\bin\Debug\Comaprison_vs_distribution_sort.pdb
+C:\Users\Jon\source\repos\Comaprison_vs_distribution_sort\Comaprison_vs_distribution_sort\obj\Debug\Comaprison_vs_distribution_sort.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\Comaprison_vs_distribution_sort\Comaprison_vs_distribution_sort\obj\Debug\Comaprison_vs_distribution_sort.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\Comaprison_vs_distribution_sort\Comaprison_vs_distribution_sort\obj\Debug\Comaprison_vs_distribution_sort.exe
+C:\Users\Jon\source\repos\Comaprison_vs_distribution_sort\Comaprison_vs_distribution_sort\obj\Debug\Comaprison_vs_distribution_sort.pdb
